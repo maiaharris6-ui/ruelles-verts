@@ -35,10 +35,10 @@
   "created_by": "maiaharris6-ui",
   "title": "Villeray–Saint-Michel–Parc-Extension",
   "slug": "villeray-saint-michel-parc-extension",
-  "updated_at": "2026-06-17T19:24:29.130Z",
+  "updated_at": "2026-06-17T19:48:51.298Z",
   "updated_by": "maiaharris6-ui",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "d28980f5-cd28-4c78-808b-591e6fed4af3"
   }
