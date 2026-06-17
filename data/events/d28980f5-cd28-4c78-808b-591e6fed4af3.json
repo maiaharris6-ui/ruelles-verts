@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "11063651-998e-4d2d-8caa-e284eb26ce89": {
+      "label": "Walking in Montreal through an Alleyway in Villeray",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=b05ayZ5zQ_4",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A \"Chaz On the Go\" walking vlog through a Villeray ruelle vert, from Rue Jules-Verre to Rue Liège, between Rue Gaspé and Rue Henri-Julien, September 2nd, 2022, at 9:15AM."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Villeray, Rue Jules-Verre to Rue Liège, between Rue Gaspé and Rue Henri-Julien",
+  "av_file_order": [
+    "11063651-998e-4d2d-8caa-e284eb26ce89"
+  ],
+  "created_at": "2026-06-17T15:32:31.281Z",
+  "created_by": "maiaharris6-ui",
+  "updated_at": "2026-06-17T15:32:31.281Z",
+  "updated_by": "maiaharris6-ui"
+}
